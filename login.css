@@ -74,7 +74,7 @@ body, html {
 
    .form-control-feedback {
        color: #FFC31A;
-       margin-right: .4rem;
+       margin-right: .6rem;
        pointer-events: all; cursor:pointer 
    }
 
